@@ -1,0 +1,16 @@
+{
+  "name": "authentication_proj",
+  "version": "1.0.0",
+  "description": "Created a node and express application to connect db on cloud(railway) and handle crud operations on the table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
+  },
+  "devDependencies": {}
+}
